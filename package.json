@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "An example module playground module I use as a playground / sandbox.",
+  "author": "Christopher Walsh <chris.walsh8@yaho.com.br>",
+  "license": "MIT",
+  "dependencies": { },
+  "repository": "https://github.com/ChristopherJW/nodejs-playground"
+}
